@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning as much as I can!
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me gatormonkey2124@gmail.com
+- 📫 How to reach me deebrecke23@gmail.com
 
 <!---
 deebrecke/deebrecke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
